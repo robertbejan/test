@@ -240,8 +240,6 @@ public class GuiMain {
 				}
 			}
 		});
-
-		// BUG aici
 		
 		comboBox.addItemListener(new ItemListener() {
 			public void itemStateChanged(ItemEvent e) {
